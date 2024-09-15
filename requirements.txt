@@ -1,0 +1,22 @@
+tqdm
+pandas
+requests
+Pillow
+scikit-learn
+pillow
+opencv-python
+paddleocr
+paddlepaddle
+mistralai
+langchain
+langchain-community
+# tf2onnx
+# torch 
+# torchvision
+# tensorflow
+# rapidocr_onnxruntime
+# easyocr
+# keras-ocr
+# python-doctr[torch]
+# pytesseract
+# python-doctr[tf]
